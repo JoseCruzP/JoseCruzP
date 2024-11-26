@@ -5,7 +5,7 @@ Colombia, Bogotá
 
 📫 How to reach me:  
 - Email: [jose-1941@hotmail.com](mailto:jose-1941@hotmail.com)  
-- LinkedIn: [LinkedIn Profile](your-linkedin-url)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jose-yesid-cruz-pinto/)  
 - GitHub: [GitHub Profile](https://github.com/JoseCruzP)
 
 ## 👀 I’m interested in:
@@ -14,9 +14,10 @@ Colombia, Bogotá
 - Creación de contenido educativo y divulgación científica
 
 ## 🌱 I’m currently learning:
-- Técnicas avanzadas de Machine Learning y Deep Learning
+- Técnicas avanzadas de Machine Learning 
 - Mejores prácticas en despliegue de modelos y APIs en producción
 - Nuevas metodologías ágiles para optimizar el trabajo en equipo en proyectos de datos
+- Análisis de datos
 
 ## 💞️ I’m looking to collaborate on:
 - Proyectos de análisis de datos y modelado predictivo
